@@ -1,0 +1,6 @@
+﻿  FirstProject.cpp
+C:\Kodlar\Cpp\Cpp\FirstProject\FirstProject\Triangle.h(103,35): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Kodlar\Cpp\Cpp\FirstProject\FirstProject\FirstProject.cpp(51,14): error C2374: 'triangle1': yeniden tanımlama; birden fazla başlatma
+C:\Kodlar\Cpp\Cpp\FirstProject\FirstProject\FirstProject.cpp(50,14): message : 'triangle1' bildirimine bakın
+C:\Kodlar\Cpp\Cpp\FirstProject\FirstProject\FirstProject.cpp(52,14): error C2374: 'triangle1': yeniden tanımlama; birden fazla başlatma
+C:\Kodlar\Cpp\Cpp\FirstProject\FirstProject\FirstProject.cpp(50,14): message : 'triangle1' bildirimine bakın

@@ -1,0 +1,28 @@
+﻿  okul.cpp
+C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(184,12): error C2011: 'kisi': 'class' türü yeniden tanımı
+  ('okul.cpp' kaynak dosyası derleniyor)
+  C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(77,7):
+  'kisi' bildirimine bakın
+  
+C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(208,13): error C2084: 'void proje::baslat(void)' işlevinin bir gövdesi zaten var
+  ('okul.cpp' kaynak dosyası derleniyor)
+  C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(200,10):
+  önceki 'baslat' tanımına bakın
+  
+C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(210,18): error C2027: tanımsız 'kisi' türü kullanıldı
+  ('okul.cpp' kaynak dosyası derleniyor)
+  C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(77,7):
+  'kisi' bildirimine bakın
+  
+C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(226,25): error C2504: 'kisi': taban sınıf tanımsız
+  ('okul.cpp' kaynak dosyası derleniyor)
+  
+C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(228,33): error C2614: 'tasarimek': geçersiz üye başlatma: 'kisi' bir taban veya üye değil
+  ('okul.cpp' kaynak dosyası derleniyor)
+  
+C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(232,25): error C2504: 'kisi': taban sınıf tanımsız
+  ('okul.cpp' kaynak dosyası derleniyor)
+  
+C:\Kodlar\Cpp\Cpp\okul\okul\eski kodlar.h(234,33): error C2614: 'yazilimek': geçersiz üye başlatma: 'kisi' bir taban veya üye değil
+  ('okul.cpp' kaynak dosyası derleniyor)
+  

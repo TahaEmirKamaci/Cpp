@@ -1,0 +1,14 @@
+﻿  downcastingUpcasting.cpp
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(26,15): error C2086: 'Employee *emp2': yeniden tanımlama
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(11,23): message : 'emp2' bildirimine bakın
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(38,14): error C2040: 'emp1': 'Employee', yöneltme düzeyi sayısı bakımından 'Employee *' ile aynı değil
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(44,15): error C2086: 'Employee *emp2': yeniden tanımlama
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(11,23): message : 'emp2' bildirimine bakın
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(45,14): error C2374: 'mng2': yeniden tanımlama; birden fazla başlatma
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(28,14): message : 'mng2' bildirimine bakın
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(54,14): error C2040: 'mng': 'Manager *', yöneltme düzeyi sayısı bakımından 'Manager' ile aynı değil
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(55,15): error C2040: 'emp': 'Employee *', yöneltme düzeyi sayısı bakımından 'Employee' ile aynı değil
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(56,15): error C2086: 'Employee *emp2': yeniden tanımlama
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(11,23): message : 'emp2' bildirimine bakın
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(60,12): error C2440: 'delete': 'Employee' - 'void*' dönüşümü yapılamıyor
+C:\Kodlar\Cpp\Cpp\downcastingUpcasting\downcastingUpcasting\downcastingUpcasting.cpp(60,12): message : Bu dönüştürmeyi gerçekleştirecek kullanıcı tanımlı dönüştürme işleci yok veya işleç çağrılamıyor
